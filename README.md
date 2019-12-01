@@ -12,7 +12,6 @@ There are 8 blocks, each of which has been assigned a particular genre. When the
 # Hardware
 1. Arduino UNO
 2. Flex sensor
-3. Monitor screen
 
 # Team for the project
 1. Tathagat Pal - https://github.com/tathagatpal
