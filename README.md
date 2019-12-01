@@ -1,4 +1,20 @@
 # PISM
-This repository consists of two codes:
-1. PISM.pde: this file contains the code for the graphics part of our project done in Processing 3.0, i.e., the content to be displayed on the hologram. In order to run the code, first create a new folder and put this sketch inside that folder. Secondly, create another folder name Data in that same folder and put all the image files in Data folder. 
-2. PISmajArduino.ino: this file contains the code for the hardware part done in Arduino IDE, i.e., the blocks (to choose genres) and the wand (to navigate through the book recoommendations). 
+PISM contains the code for the project we had to make for our course Prototyping Interactive System. 
+We made an interactive book selection platform for book lovers. 
+
+# How does it operate
+There are 8 blocks, each of which has been assigned a particular genre. When the user picks up the blocks of the genre he/she wants to read, the books of the corresponding genre(s) is displayed on the hologram. The user can then navigate through the options of books displayed on the hologram, with the help of a wand, which has a flex sensor attached to it. 
+
+# Software
+1. Processing 
+2. Arduino IDE 
+
+# Hardware
+1. Arduino UNO
+2. Flex sensor
+3. Monitor screen
+
+# Team for the project
+1. Tathagat Pal - github.com/tathagatpal
+2. Meetakshi Setiya 
+3. Kushal Juneja 
