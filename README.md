@@ -15,6 +15,6 @@ There are 8 blocks, each of which has been assigned a particular genre. When the
 3. Monitor screen
 
 # Team for the project
-1. Tathagat Pal - github.com/tathagatpal
+1. Tathagat Pal - https://github.com/tathagatpal
 2. Meetakshi Setiya 
 3. Kushal Juneja 
