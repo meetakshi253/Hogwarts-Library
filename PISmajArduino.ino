@@ -1,6 +1,6 @@
 
-int inPin0 = 11;   // pushbutton connected to digital pin 1
-int inPin1 =10 ;   // pushbutton connected to digital pin 2 
+int inPin0 = 11;  // pushbutton connected to digital pin 1
+int inPin1 =10 ;  // pushbutton connected to digital pin 2 
 int inPin2 = 2;   // pushbutton connected to digital pin 3
 int inPin3 = 3;   // pushbutton connected to digital pin 4
 int inPin4 = 4;   // pushbutton connected to digital pin 5
@@ -8,7 +8,7 @@ int inPin5 = 5;   // pushbutton connected to digital pin 6
 int inPin6 = 6;   // pushbutton connected to digital pin 7
 int inPin7 = 7;
 void setup() {
-  // initialize the serial communication:
+ 
   Serial.begin(9600);
    pinMode(inPin0, INPUT);      // sets the digital pin 0 as input
   pinMode(inPin1, INPUT);      // sets the digital pin 1 as input
