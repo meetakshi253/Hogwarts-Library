@@ -32,7 +32,7 @@ void loop() {
   val[1] = digitalRead(inPin1);   // read the input pin //dev
   val[2] = digitalRead(inPin2);   // read the input pin //blue
   val[3] = digitalRead(inPin3);   // read the input pin//orange
-  val[4] = digitalRead(inPin4);   // read the input pin//skin
+  val[4] = digitalRead(inPin4);   // read the input pin//beige
   val[5] = digitalRead(inPin5);   // read the input pin //black
   val[6] = digitalRead(inPin6);   // read the input pin //pink
   val[7] = digitalRead(inPin7);   // read the input pin //light blue
