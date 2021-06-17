@@ -14,6 +14,6 @@ There are 8 blocks, each of which has been assigned a particular genre. When the
 2. Flex sensor
 
 # Team for the project
-1. Tathagat Pal - https://github.com/tathagatpal
-2. Meetakshi Setiya - https://github.com/meetakshi253
+1. [Tathagat Pal](https://github.com/tathagatpal)
+2. [Meetakshi Setiya](https://github.com/meetakshi253)
 3. Kushal Juneja 
